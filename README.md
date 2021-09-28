@@ -9,7 +9,7 @@ Installation
 Using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-Plug 'kruemelmann/pathfind'
+Plug 'kruemelmann/pathfind.vim'
 ```
 
 Usage
